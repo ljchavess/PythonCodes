@@ -4,6 +4,10 @@
 # e-mail: luanjchaves@gmail.com
 
 #Algoritmo que faz ordenação dos valores de uma lista de numeros aleatórios
+#Os numeros ordenados serão salvos em um novo arquivo.
+
+#Para executar o arquivo:
+#   python3.8 mergeSort.py listaComNumeros.txt
 
 import sys
 
